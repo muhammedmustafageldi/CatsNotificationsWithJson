@@ -7,7 +7,7 @@
 ## Screenshots:
 
 <p align="left">
-<img src="https://swanky.website/PicturesAndGifs/Adsız.png" width="380" height="230"/>
+<img src="https://github.com/muhammedmustafageldi/My-Design-Files/blob/main/Screnshots/CatsNotifications/Ads%C4%B1z.png" width="380" height="230"/>
 </p>
 
 
